@@ -4,6 +4,16 @@ This repo was created with the solo purpose of concentrating free training and s
 Content will be added here :) Hope yall enjoy it, please suggest content 
 
 ####
+GITHUB Repos
+
+Good for specific study !
+
+This is the most relevant repo IMO, has everything :)
+
+https://github.com/trimstray/the-book-of-secret-knowledge
+
+
+####
 
 
 
