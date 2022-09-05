@@ -11,7 +11,18 @@ Good for specific study !
 This is the most relevant repo IMO, has everything :)
 https://github.com/trimstray/the-book-of-secret-knowledge
 
-Devops Repos 
+## Devops Repos 
+
+# Projects
+
+https://github.com/Abhinav-26/DevOps-Projects
+
+https://github.com/yankils/Simple-DevOps-Project
+
+https://github.com/AWS-Devops-Projects
+
+# Exercises
+
 https://github.com/bregman-arie/devops-exercises
 
 https://github.com/dwyl/learn-devops
