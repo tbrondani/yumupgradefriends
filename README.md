@@ -9,8 +9,20 @@ GITHUB Repos
 Good for specific study !
 
 This is the most relevant repo IMO, has everything :)
-
 https://github.com/trimstray/the-book-of-secret-knowledge
+
+Devops Repos 
+https://github.com/bregman-arie/devops-exercises
+
+https://github.com/dwyl/learn-devops
+
+https://github.com/Lets-DevOps/awesome-learning
+
+https://github.com/devopsacademyau/academy
+
+https://github.com/MichaelCade/90DaysOfDevOps/tree/main/Days
+
+https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS
 
 
 ####
