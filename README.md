@@ -1,23 +1,35 @@
 <div align="center">
-<h1>
-    yumupgradefriends
-</h1>
-    <p>This repo was created with the solo purpose of concentrating free training and suggestions to our friends who wish to join the IT Field and dont know where to start! Feel free to comment :) <br>
+
+![image](https://user-images.githubusercontent.com/75628046/197298620-f082385b-068e-4d14-aa7f-ff3d2e81c082.png)
+<p>
+    This repo was created with the solo purpose of concentrating free training and suggestions to our friends who wish to join the IT Field and dont know where to start! Feel free to comment :)
     Content will be added here. Hope yall enjoy it, please suggest content :)
 </p>
 
 </div>
 
-#### GITHUB Repos
+# Table of Contents 📚
+  - [GitHub Repos](#github-repos)
+  - [Devops Repos](#devops-repos)
+  - [Exercises](#exercises)
+  - [Youtube](#youtube)
+  - [Links](#links)
+  - [contribute to the project](#how-to-contribute-to-the-project)
+    
+    
+ 
+## Github Repos 
 
 Good for specific study !
 
-This is the most relevant repo IMO, has everything :)
-https://github.com/trimstray/the-book-of-secret-knowledge
+|      **Projects**     |                     **Links**                    |
+|:---------------------:|:------------------------------------------------:|
+| the book of secrect knowledge       | https://github.com/trimstray/the-book-of-secret-knowledge    |
 
-<div align="center">
+> This is the most relevant repo IMO, has everything :)
 
-## Devops Repos 
+
+<h2>Devops Repos</h2>
 
 |      **Projects**     |                     **Links**                    |
 |:---------------------:|:------------------------------------------------:|
@@ -69,6 +81,16 @@ Here are some of my recommendations that I used to study in a very passive and f
 |               **Title**              |                                    **Links**                                   |
 |:------------------------------------:|:------------------------------------------------------------------------------:|
 | Introdução ao linux usuarios windows | https://materiais.escolalinux.com.br/guia-introducao-ao-linux-usuarios-windows |
-|                                      |                                                                                |
 
-</div>
+<br>
+
+## How to contribute to the project
+
+- You will fork the repository
+- Clone the repository added to your github in terminal:
+```
+git clone <link to repository>
+```
+- Use the ```cd yumupgradefriends``` command in the terminal
+
+- After placing the contributions, make a *pull request* and describe what you added to the repository
