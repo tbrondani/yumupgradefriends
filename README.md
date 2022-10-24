@@ -1,6 +1,7 @@
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/75628046/197298620-f082385b-068e-4d14-aa7f-ff3d2e81c082.png)
+
 <p>
     This repo was created with the solo purpose of concentrating free training and suggestions to our friends who wish to join the IT Field and dont know where to start! Feel free to comment :)
     Content will be added here. Hope yall enjoy it, please suggest content :)
