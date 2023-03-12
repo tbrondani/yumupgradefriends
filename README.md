@@ -37,6 +37,7 @@ Good for specific study !
 | DevOps-Projects       | https://github.com/Abhinav-26/DevOps-Projects    |
 | Simple-DevOps-Project | https://github.com/yankils/Simple-DevOps-Project |
 |  DailyDevOps Projects |      https://github.com/AWS-Devops-Projects      |
+|     DevOps-Books      |https://github.com/ahmedamsaleh/Free-DevOps-Books-1|
 
 <h2>Exercises</h2>
 
