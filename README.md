@@ -25,11 +25,11 @@ Good for specific study !
 
 |      **Projects**     |                     **Links**                    |
 |:---------------------:|:------------------------------------------------:|
-| the book of secrect knowledge       | https://github.com/trimstray/the-book-of-secret-knowledge    | > This is the most relevant repo IMO, has everything :)
+| the book of secrect knowledge       | https://github.com/trimstray/the-book-of-secret-knowledge    |
 | awesome appsec       | https://github.com/paragonie/awesome-appsec    |
             
 
-
+ > TBSK one of the best repos around, do check it out.
 
 
 <h2>Devops Repos</h2>
