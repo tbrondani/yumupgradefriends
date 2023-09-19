@@ -26,6 +26,8 @@ Good for specific study !
 |      **Projects**     |                     **Links**                    |
 |:---------------------:|:------------------------------------------------:|
 | the book of secrect knowledge       | https://github.com/trimstray/the-book-of-secret-knowledge    |
+| awesome appsec       | https://github.com/paragonie/awesome-appsec    |
+            
 
 > This is the most relevant repo IMO, has everything :)
 
