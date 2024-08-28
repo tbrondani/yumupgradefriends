@@ -27,6 +27,7 @@ Good for specific study !
 |:---------------------:|:------------------------------------------------:|
 | the book of secrect knowledge       | https://github.com/trimstray/the-book-of-secret-knowledge    |
 | awesome appsec       | https://github.com/paragonie/awesome-appsec    |
+| aprendago(PT-BR)     | https://aprendago.com.br/                      |  
             
 
  > TBSK one of the best repos around, do check it out.
